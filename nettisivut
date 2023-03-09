@@ -1,0 +1,90 @@
+// homepage
+
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Perheyritys Putkifirma Möttönen OY - Your Trusted Plumbing and Heating Experts</title>
+		<link rel="stylesheet" href="css/style.css">
+	</head>
+	<body>
+		<header>
+			<h1>Perheyritys Putkifirma Möttönen OY</h1>
+			<nav>
+				<ul>
+					<li><a href="#contact">Contact Us</a></li>
+				</ul>
+			</nav>
+		</header>
+		<main>
+			<section id="hero">
+				<h2>Your Trusted Plumbing and Heating Experts</h2>
+				<p>At Perheyritys Putkifirma Möttönen OY, we are committed to providing the highest quality plumbing and heating services to our customers. With over 20 years of experience, our team of experts has the knowledge and expertise to handle any job, big or small.</p>
+				<a href="#contact" class="cta">Get in Touch</a>
+			</section>
+			<section id="references">
+				<h3>References</h3>
+				<ul>
+					<li>Mattilan Maatila</li>
+					<li>Kimmon Katto OY</li>
+					<li>Jaskan Autokorjaamo</li>
+					<li>Kodinkoneliike Pappila</li>
+				</ul>
+			</section>
+		</main>
+		<footer>
+			<p>Copyright © Perheyritys Putkifirma Möttönen OY</p>
+		</footer>
+	</body>
+</html>
+
+
+// kontaktit
+
+<section id="contact">
+	<h2>Contact Us</h2>
+	<p>Thank you for your interest in Perheyritys Putkifirma Möttönen OY! Please fill out the form below with your contact information and a brief message about the plumbing or heating services you need, and we'll get back to you as soon as possible.</p>
+	<form action="#" method="POST">
+		<label for="name">Name:</label>
+		<input type="text" id="name" name="name" required>
+
+		<label for="email">Email:</label>
+		<input type="email" id="email" name="email" required>
+
+		<label for="phone">Phone:</label>
+		<input type="tel" id="phone" name="phone" required>
+
+		<label for="message">Message:</label>
+		<textarea id="message" name="message" required></textarea>
+
+		<button type="submit">Submit</button>
+	</form>
+	<p>Alternatively, you can reach us by phone or email:</p>
+	<ul>
+		<li><strong>Phone:</strong> 555-1234</li>
+		<li><strong>Email:</strong> info@putkifirma-mottonen.fi</li>
+	</ul>
+	<p>Our office hours are Monday to Friday, 8am to 5pm.</p>
+</section>
+
+// referenssit
+
+
+<section id="references">
+	<h2>References</h2>
+	<div class="reference">
+		<h3>Mattilan Maatila</h3>
+		<p>"Perheyritys Putkifirma Möttönen OY has been our go-to plumbing and heating company for years. They are reliable, professional, and always get the job done right. We highly recommend them."</p>
+	</div>
+	<div class="reference">
+		<h3>Kimmon Katto OY</h3>
+		<p>"We have worked with Perheyritys Putkifirma Möttönen OY on multiple projects and have always been impressed with their level of expertise and quality of work. We recommend them to anyone in need of plumbing or heating services."</p>
+	</div>
+	<div class="reference">
+		<h3>Jaskan Autokorjaamo</h3>
+		<p>"We have been consistently impressed with Perheyritys Putkifirma Möttönen OY's professionalism, responsiveness, and attention to detail. They always go above and beyond to ensure customer satisfaction."</p>
+	</div>
+	<div class="reference">
+		<h3>Kodinkoneliike Pappila</h3>
+		<p>"Perheyritys Putkifirma Möttönen OY is a top-notch plumbing and heating company. Their team is knowledgeable, friendly, and always delivers high-quality work. We highly recommend them."</p>
+	</div>
+</section>
