@@ -9,9 +9,6 @@
 			<h1>Perheyritys Putkifirma Möttönen OY</h1>
 			<nav>
 				<ul>
-					<li><a href="#services">Our Services</a></li>
-					<li><a href="#recommended-by">Recommended By</a></li>
-					<li><a href="#references">References</a></li>
 					<li><a href="#contact">Contact Us</a></li>
 				</ul>
 			</nav>
@@ -20,37 +17,24 @@
 			<section id="hero">
 				<h2>Your Trusted Plumbing and Heating Experts</h2>
 				<p>At Perheyritys Putkifirma Möttönen OY, we are committed to providing the highest quality plumbing and heating services to our customers. With over 20 years of experience, our team of experts has the knowledge and expertise to handle any job, big or small.</p>
-				<a href="#services" class="cta">Learn More</a>
-			</section>
-			<section id="services">
-				<h2>Our Services</h2>
-				<p>We offer a wide range of plumbing and heating services to meet the needs of our customers. Whether you need a simple repair or a complex installation, our team has the experience and expertise to get the job done right. Our services include:</p>
-				<ul>
-					<li>Plumbing repairs and installations</li>
-					<li>Heating repairs and installations</li>
-					<li>Water heater repairs and installations</li>
-					<li>Drain cleaning and repair</li>
-					<li>Gas line installation and repair</li>
-					<li>Boiler repairs and installations</li>
-				</ul>
 				<a href="#contact" class="cta">Get in Touch</a>
 			</section>
-			<section id="recommended-by">
-				<h2>Recommended By</h2>
-				<div class="business">
-					<img src="img/mattilan-maatila-logo.png" alt="Mattilan Maatila Logo">
-					<h3>Mattilan Maatila</h3>
-					<p>We highly recommend Perheyritys Putkifirma Möttönen OY for all your plumbing and heating needs. They provide exceptional service and always go above and beyond to ensure customer satisfaction.</p>
-				</div>
-				<div class="business">
-					<img src="img/kimmon-katto-logo.png" alt="Kimmon Katto OY Logo">
-					<h3>Kimmon Katto OY</h3>
-					<p>Perheyritys Putkifirma Möttönen OY is our go-to for all plumbing and heating work. They are reliable, professional, and always get the job done right.</p>
-				</div>
-				<div class="business">
-					<img src="img/jaskan-autokorjaamo-logo.png" alt="Jaskan Autokorjaamo Logo">
-					<h3>Jaskan Autokorjaamo</h3>
-					<p>We have worked with Perheyr
+			<section id="references">
+				<h3>References</h3>
+				<ul>
+					<li>Mattilan Maatila</li>
+					<li>Kimmon Katto OY</li>
+					<li>Jaskan Autokorjaamo</li>
+					<li>Kodinkoneliike Pappila</li>
+				</ul>
+			</section>
+		</main>
+		<footer>
+			<p>Copyright © Perheyritys Putkifirma Möttönen OY</p>
+		</footer>
+	</body>
+</html>
+
 
 
 
