@@ -1,3 +1,5 @@
+// homepage
+
 <!DOCTYPE html>
 <html>
 	<head>
@@ -36,7 +38,7 @@
 </html>
 
 
-
+// kontaktit
 
 <section id="contact">
 	<h2>Contact Us</h2>
@@ -63,6 +65,8 @@
 	</ul>
 	<p>Our office hours are Monday to Friday, 8am to 5pm.</p>
 </section>
+
+// referenssit
 
 
 <section id="references">
