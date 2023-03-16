@@ -1,0 +1,197 @@
+// chatGPT:n versio kaikesta
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Perheyritys Putkifirma Möttönen OY</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+
+        header {
+            background-color: #008B8B;
+            color: #fff;
+            padding: 1rem;
+        }
+
+        h1 {
+            margin: 0;
+            font-size: 2rem;
+        }
+
+        nav ul {
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+            overflow: hidden;
+            background-color: #333;
+        }
+
+        nav li {
+            float: left;
+        }
+
+        nav li a {
+            display: block;
+            color: white;
+            text-align: center;
+            padding: 14px 16px;
+            text-decoration: none;
+        }
+
+        nav li a:hover {
+            background-color: #111;
+        }
+
+        #banner {
+            background-image: url("banner.jpg");
+            height: 400px;
+            background-size: cover;
+            background-position: center;
+        }
+
+        #banner h2 {
+            color: white;
+            text-align: center;
+            padding-top: 150px;
+            font-size: 3rem;
+        }
+
+        #services {
+            padding: 2rem;
+        }
+
+        #references {
+            padding: 2rem;
+        }
+
+        #contact {
+            padding: 2rem;
+        }
+
+        #contact form {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+
+        #contact label {
+            display: block;
+            margin-bottom: 0.5rem;
+        }
+
+        #contact input[type="text"],
+        #contact input[type="email"],
+        #contact textarea {
+            width: 100%;
+            margin-bottom: 1rem;
+            padding: 0.5rem;
+            border-radius: 0.25rem;
+            border: none;
+        }
+
+        #contact input[type="submit"] {
+            background-color: #008B8B;
+            color: white;
+            border: none;
+            padding: 0.5rem 1rem;
+            border-radius: 0.25rem;
+            cursor: pointer;
+        }
+
+        #contact input[type="submit"]:hover {
+            background-color: #006666;
+        }
+
+        footer {
+            background-color: #333;
+            color: white;
+            padding: 1rem;
+            text-align: center;
+        }
+
+        footer p {
+            margin: 0;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Perheyritys Putkifirma Möttönen OY</h1>
+    </header>
+    <nav>
+        <ul>
+            <li><a href="#">Home</a></li>
+            <li><a href="#">About Us</a></li>
+            <li><a href="#">Contact Us</a></li>
+        </ul>
+    </nav>
+    <section id="banner">
+        <h2>Your trusted plumbing and heating experts</h2>
+    </section>
+    <main>
+        <section id="about">
+            <h3>About Us</h3>
+            <p>Perheyritys Putkifirma Möttönen OY is a family-owned plumbing and heating company serving the Helsinki area
+            
+            
+            
+            
+            
+//////// toinen vaihtoehto jonka chatgpt antoi
+
+
+<!DOCTYPE html>
+<html lang="fi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Perheyritys Putkifirma Möttönen OY</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Perheyritys Putkifirma Möttönen OY</h1>
+    <nav>
+      <ul>
+        <li><a href="#">Etusivu</a></li>
+        <li><a href="#">Palvelut</a></li>
+        <li><a href="#">Yhteystiedot</a></li>
+        <li><a href="#">Referenssit</a></li>
+      </ul>
+    </nav>
+  </header>
+  <main>
+    <section id="background">
+      <h2>Taustaa</h2>
+      <p>Putkifirma Möttönen OY on vuonna 1985 perustettu perheyritys, jonka päätoimialana on LVI-alan palveluiden tarjoaminen niin yksityisille kuin yrityksillekin. Yrityksen perustivat isä ja poika, Matti ja Jussi Möttönen, jotka halusivat yhdistää osaamisensa ja perustaa oman yrityksen. Putkifirma Möttönen OY on kasvanut vuosien varrella ja tällä hetkellä yrityksessä työskentelee 15 henkilöä. Vaikka yritys on kasvanut, on perheyrityksen periaate säilynyt vahvana ja asiakkaat ovat aina olleet tärkein voimavara.</p>
+    </section>
+    <section id="services">
+      <h2>Palvelut</h2>
+      <ul>
+        <li>LVI-suunnittelu</li>
+        <li>LVI-asennus</li>
+        <li>LVI-huolto</li>
+        <li>LVI-työt yrityksille</li>
+        <li>LVI-työt yksityisille</li>
+      </ul>
+    </section>
+    <section id="contact">
+      <h2>Ota yhteyttä</h2>
+      <p>Voit ottaa yhteyttä meihin puhelimitse, sähköpostilla tai käyttämällä alla olevaa lomaketta.</p>
+      <ul>
+        <li>Puhelin: 010 123 4567</li>
+        <li>Sähköposti: info@putkifirma.fi</li>
+      </ul>
+      <form action="#">
+        <label for="nimi">Nimi</label>
+        <input type="text" id="nimi" name="nimi">
+        <label for="sahkoposti">Sähköposti</label>
+        <input type="email" id="sahkoposti" name="sahkoposti">
+        <label for="viesti">Viesti</label>
+        <textarea id="viesti" name="viesti"></textarea>
+        <button type="submit">Lähet
